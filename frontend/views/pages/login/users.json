@@ -1,0 +1,76 @@
+{
+    "users": [
+        {
+            "firstname": "Jose Miguel",
+            "lastname": "Recinos",
+            "email": "ncuxr@miumg.edu.gt",
+            "phone": "47110199",
+            "address": "Sanarate",
+            "password": "$2y$10$BmejGR5WZjW86.SnmayXv.1mp\/a6W50Qf9QQI2.lDxYa1ymozten2"
+        },
+        {
+            "firstname": "juan",
+            "lastname": "ramirez",
+            "email": "dasd@jau.com",
+            "phone": "12345678",
+            "address": "sansarate",
+            "password": "$2y$10$0dgMf\/PbeL2p.IZAXp2cVOxP41eYg9u3J8uaumSJlNpo1WVJjF.tO"
+        },
+        {
+            "firstname": "Jos\u00e9",
+            "lastname": "De Paz",
+            "email": "jdepazc3@miumg.edu.gt",
+            "phone": "12345678",
+            "address": "Sansare",
+            "password": "$2y$10$ywzP6DguI2sg.YOkGfcrVu8noPpdl9mLYMxZCdSfjqPAgU5eYm\/1a"
+        },
+        {
+            "firstname": "Nataly",
+            "lastname": "Recinos",
+            "email": "nat@recinos.com",
+            "phone": "12345678",
+            "address": "sansarate",
+            "password": "$2y$10$mOS4HYpt9ZPOsZwh9ZdS9egHhqd5fFI7SkjeDP\/ClOEk1a8lTDW9i"
+        },
+        {
+            "firstname": "testeo",
+            "lastname": "domingo",
+            "email": "jsjdsa@ja.com",
+            "phone": "12345678",
+            "address": "sansarate",
+            "password": "$2y$10$ZYud7wTOT33JR9WLBccke..GBlY1KD4kLs.PCCU5C.fmTrD2qhVui"
+        },
+        {
+            "firstname": "final",
+            "lastname": "testeo",
+            "email": "test@final.com",
+            "phone": "12345679",
+            "address": "Sansare",
+            "password": "$2y$10$Z.Rsa5MzZmYS.htB8KNG8uCUnzvDFnaPI7WyWYmWphfW8arHBhxYW"
+        },
+        {
+            "firstname": "testeo",
+            "lastname": "nat",
+            "email": "testeonat@gmail.com",
+            "phone": "47110199",
+            "address": "Guatemala",
+            "password": "$2y$10$Xqq2IOueh73N4T7XvDztB.nUrq\/7m\/OY4ez8wVgUruzuTG9ijDp1K"
+        },
+        {
+            "firstname": "leonel",
+            "lastname": "messi",
+            "email": "leomessi@gmail.com",
+            "phone": "47110199",
+            "address": "Guatemala",
+            "password": "$2y$10$fYM285BM2MxrgMRLr6BLKuQ39W2.3JDekKwIBSQeyMJnw3CoQaaHq"
+        },
+        {
+            "firstname": "Carlos",
+            "lastname": "Lecointe",
+            "email": "carlos@gmail.com",
+            "phone": "42032833",
+            "address": "Guatemala",
+            "password": "$2y$10$m1\/RE\/1MVaIo3lS41xdcYuLpSi5uxeeMq1eq4KXIYvYiYw1OCHHli"
+        }
+    ]
+}
